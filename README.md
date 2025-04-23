@@ -1,5 +1,7 @@
 ## Olá me chamo ale, esutdante de ti
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scntkk&show_icons=true&theme=midnight-purple)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
